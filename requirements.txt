@@ -1,0 +1,4 @@
+# DevContext-CLI
+# Zero-dependency core — no external packages required
+# This file is kept for compatibility with standard Python tooling
+# Python >= 3.8 recommended
